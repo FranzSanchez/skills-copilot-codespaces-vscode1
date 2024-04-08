@@ -1,3 +1,0 @@
-function skillmember(var1) {
-    
-}
